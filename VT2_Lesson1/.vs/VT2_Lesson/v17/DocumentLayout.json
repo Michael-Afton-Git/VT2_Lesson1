@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\testc\\Desktop\\VGAF\\Classtime Projects\\VGAF_Unity\\VT2_Lesson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB8CF06-924D-83A2-7A48-F60150773C14}|Assembly-CSharp.csproj|c:\\users\\testc\\desktop\\vgaf\\classtime projects\\vgaf_unity\\vt2_lesson\\assets\\scripts\\minicharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB8CF06-924D-83A2-7A48-F60150773C14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minicharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB8CF06-924D-83A2-7A48-F60150773C14}|Assembly-CSharp.csproj|C:\\Users\\testc\\Desktop\\VGAF\\Classtime Projects\\VGAF_Unity\\VT2_Lesson\\assets\\scripts\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB8CF06-924D-83A2-7A48-F60150773C14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniCharacters.cs",
+              "DocumentMoniker": "C:\\Users\\testc\\Desktop\\VGAF\\Classtime Projects\\VGAF_Unity\\VT2_Lesson\\Assets\\Scripts\\MiniCharacters.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniCharacters.cs",
+              "ToolTip": "C:\\Users\\testc\\Desktop\\VGAF\\Classtime Projects\\VGAF_Unity\\VT2_Lesson\\Assets\\Scripts\\MiniCharacters.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniCharacters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:59:22.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\testc\\Desktop\\VGAF\\Classtime Projects\\VGAF_Unity\\VT2_Lesson\\Assets\\Scripts\\Tank.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank.cs",
+              "ToolTip": "C:\\Users\\testc\\Desktop\\VGAF\\Classtime Projects\\VGAF_Unity\\VT2_Lesson\\Assets\\Scripts\\Tank.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tank.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:48:44.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
